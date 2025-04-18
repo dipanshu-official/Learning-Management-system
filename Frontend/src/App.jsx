@@ -42,11 +42,6 @@ const App = () => {
 
         </Route>
 
-
-
-
-
-
       </Routes>
 
     </div >
